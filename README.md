@@ -19,4 +19,4 @@ To play Minesweeper:
 
 #
 
-### Contact: mil.haszek@gmail.com
+#### Contact: mil.haszek@gmail.com
