@@ -16,3 +16,7 @@ To play Minesweeper:
 	`game.playMove(1, 2);`
 
 * When done run `.exit`
+
+#
+
+### Contact: mil.haszek@gmail.com
